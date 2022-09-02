@@ -1,7 +1,4 @@
-title: Female Cat
-description: GoLangTestingLearingPathDescription 1
-time: 5 minutes
-level: beginner
+title: Hassan Scenario3
 steps:
   - step1.md
 license: Apache

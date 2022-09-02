@@ -1,4 +1,4 @@
-title: Male Birds
+title: Hassan Scenario2
 description: Learn the basics of Goroutines.
 time: 15 minutes
 level: intermediate

@@ -8,5 +8,5 @@ license: Apache
 scenarioCount: 2
 scenarios:
   - Male Birds
-  - Female Birds
+  - Hassan Scenario1
 title: Hassan Learningpath1

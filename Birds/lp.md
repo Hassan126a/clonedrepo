@@ -9,4 +9,4 @@ scenarioCount: 2
 scenarios:
   - Male Birds
   - Female Birds
-title: Hassan LearningPath1
+title: Hassan Learningpath1

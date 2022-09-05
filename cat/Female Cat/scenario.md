@@ -6,4 +6,4 @@ isNew: true
 isPremium: true
 isAvailable: true
 points: 1
-description: hello description
+description: hello description. How are you@!? whats going on.

@@ -9,4 +9,4 @@ scenarioCount: 2
 scenarios:
   - Male Cat
   - Female Cat
-title: Hassan LearningPath2
+title: Hassan Learningpath2

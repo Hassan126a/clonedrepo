@@ -5,7 +5,8 @@ license: Apache
 isNew: true
 isPremium: true
 isAvailable: true
-points: 1
+points:
 description: hello description. How are you@!? whats going on.
 time: 12 minutes
 level: poor
+hello: how are you

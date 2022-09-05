@@ -7,6 +7,6 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - Hassan Scenario1
-  - Hassan Scenario2
+  - Hassan Scenario3
+  - Hassan Scenario4
 title: Hassan Learningpath2

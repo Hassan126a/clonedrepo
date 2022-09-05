@@ -1,9 +1,8 @@
 title: Female Cat
 steps:
   - step1.md
-  - step2.md
 license: Apache
-isNew: true
+isNew: true1
 isPremium: true
 isAvailable: true
 description: hello description. How are you@!? whats going on.

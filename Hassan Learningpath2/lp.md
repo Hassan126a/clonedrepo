@@ -7,6 +7,6 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - Male Cat
-  - Female Cat
+  - Hassan Scenario1
+  - Hassan Scenario2
 title: Hassan Learningpath2

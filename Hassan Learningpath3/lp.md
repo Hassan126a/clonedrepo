@@ -1,6 +1,5 @@
 title: Hassan LearningPath3
-authors:
-  - wajeehamanzoor
+authors: []
 categories:
   - docker
 description: Just an Introduction plus some Basics

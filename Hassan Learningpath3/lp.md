@@ -2,7 +2,6 @@ title: Hassan LearningPath3
 categories:
   - docker
 description: Just an Introduction plus some Basics
-state: draft
 isDraft: true
 isAvailable: true
 isNew: false

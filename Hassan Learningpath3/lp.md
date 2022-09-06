@@ -8,4 +8,3 @@ isPremium: true
 license: Apache
 scenarioCount: 0
 scenarios: []
-thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/docker.png

@@ -3,7 +3,7 @@ categories:
   - docker
 description: Just an Introduction plus some Basics
 isAvailable: true
-isNew: false
+isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 0

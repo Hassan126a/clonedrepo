@@ -6,7 +6,6 @@ isAvailable: true
 isNew: false
 isPremium: true
 license: Apache
-type: public
 scenarioCount: 0
 scenarios: []
 thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/docker.png

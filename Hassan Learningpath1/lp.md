@@ -6,7 +6,9 @@ isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 2
-scenarios:
-  - Male Birds
+scenarios: 
   - Hassan Scenario1
+  - Hassan Scenario2
+
+
 title: Hassan Learningpath1

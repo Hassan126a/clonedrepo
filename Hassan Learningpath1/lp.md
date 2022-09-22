@@ -8,7 +8,4 @@ license: Apache
 scenarioCount: 2
 scenarios: 
   - Hassan Scenario1
-  - Hassan Scenario2
-
-
 title: Hassan Learningpath1
